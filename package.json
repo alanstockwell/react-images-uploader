@@ -1,6 +1,6 @@
 {
   "name": "react-images-uploader",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "React.js component for uploading images to the server",
   "main": "lib/index.js",
   "scripts": {
@@ -49,6 +49,7 @@
     "babel-polyfill": "^6.20.0",
     "classnames": "^2.2.5",
     "isomorphic-fetch": "^2.2.1",
+    "prop-types": "^15.6.0",
     "react": "^15.4.1",
     "react-addons-test-utils": "^15.4.1",
     "react-css-modules": "^4.0.3",
